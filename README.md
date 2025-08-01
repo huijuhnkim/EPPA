@@ -6,11 +6,11 @@
   <img src="https://img.shields.io/badge/Logic%20Pro-Compatible-green">
 </p>
 
-EPPA transforms an affordable expression pedal into an intuitive playback controller for Logic Pro, making audio production more accessible for visually impaired musicians and engineers.
+EPPA transforms an affordable expression pedal into an intuitive playback controller for Logic Pro, making audio production more accessible for visually impaired musicians and engineers. This project was inspired by [Dr. Abir Saha's research paper "Understanding Audio Production Practices of People with Vision Impairments"](https://doi.org/10.1145/3373625.3416993), which highlights the accessibility challenges and high costs faced by blind audio professionals.
 
 ## 🎯 Problem
 
-Inspired by Dr. Abir Saha's research paper "Understanding Audio Production Practices of People with Vision Impairments," EPPA addresses two critical challenges:
+EPPA addresses two critical challenges identified in accessibility research:
 
 - **Cost Barrier**: Professional accessible control surfaces can cost upwards of $10,000
 - **Complexity**: Existing assistive technologies have steep learning curves that create additional barriers
@@ -86,16 +86,6 @@ EPPA uses a simple, intuitive control scheme inspired by driving:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues and pull requests.
-
-## 📝 License
-
-[Your chosen license]
-
-## 🙏 Acknowledgments
-
-- Dr. Abir Saha for the inspiring research on accessible audio production
-- The blind audio production community for their invaluable insights
-- Northwestern University and UC Irvine for supporting accessibility research
 
 ## 📧 Contact
 
