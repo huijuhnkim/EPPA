@@ -89,6 +89,6 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## 📧 Contact
 
-Huijuhn Kim - [your email]
+Huijuhn Kim - kim.huijuhn@gmail.com
 
 Project Link: [https://github.com/huijuhnkim/eppa](https://github.com/huijuhnkim/eppa)
